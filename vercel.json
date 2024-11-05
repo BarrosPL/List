@@ -1,4 +1,4 @@
-{   "version":37.14,
+{   "version":37,
     "builds":[
         {
             "src":"src/server.js",
